@@ -1,2 +1,2 @@
 # Buscaminas
-Prueba técnica PSL
+Prueba técnica PSL. Juego de buscaminas en consola.
